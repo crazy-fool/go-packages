@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/golang-module/carbon/v2 v2.3.10
 	github.com/golang-module/dongle v0.2.8
+	github.com/shopspring/decimal v1.3.1
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
 )
 
