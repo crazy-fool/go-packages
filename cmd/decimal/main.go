@@ -51,6 +51,6 @@ func main() {
 
 	fmt.Println("order", orderAmount.String())
 
-	money.FormatMoney("11111111110", 2)
+	fmt.Println(money.FormatMoney("11111111111111111111111111111111110", 2))
 
 }
